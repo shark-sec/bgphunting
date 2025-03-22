@@ -14,10 +14,10 @@ try:
     with open("banner.txt", "r") as file:
         banner_content = file.read()
     print(Fore.BLUE + banner_content)  # 以蓝色输出
-    print(Fore.RED + "        BGP-CRAP Exposing your organization")
+    print(Fore.RED + "        BGPhunting Exposing your organization")
     print("")
-    print(Fore.GREEN + "   The Phantom Technology - Advance Pentest Copyright © 2025")
-    print(Fore.WHITE + "     James Taylor " + Fore.GREEN + "<" + Fore.CYAN + "https" + Fore.GREEN + "://" + Fore.YELLOW + "t.me/The_Phantom_Technology" + Fore.GREEN + ">")
+    print(Fore.GREEN + "   SHARK Security - Advance Pentest Copyright © 2025")
+    print(Fore.WHITE + "     James Taylor " + Fore.GREEN + "<" + Fore.CYAN + "https" + Fore.GREEN + "://" + Fore.YELLOW + "t.me/sharkecuriTy" + Fore.GREEN + ">")
     print("")
 except FileNotFoundError:
     print(Fore.RED + "Error: banner.txt file not found. Please make sure the file exists in the current directory.")
