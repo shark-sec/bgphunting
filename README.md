@@ -1,2 +1,1 @@
-# bgphunting
-A BGP query information collection hacking tool in the ARMORX system can be expressed as"a BGP query information collection hacking tool in the ARMORX system.
+A BGP penetration testing tool developed by the SHARK Security team,focusing on information collection via BGP to quickly identify and attack targets!
