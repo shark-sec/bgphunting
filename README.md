@@ -5,4 +5,4 @@ A simpler and faster BGP information collection tool
 
 BGPhunting is a tool specifically designed for BGP querying and application, which is used in ethical hacking and penetration testing.
 
-Regarding how to use BGPhunting or its open-source project, please refer to our community documentation.
+BGPhunting is written in the Python programming language, and its source code is relatively simple.
